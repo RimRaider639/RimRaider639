@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 <hr>
 <h2>🔥My github stats🔥</h2>
+<div>
 <center>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RimRaider639)](https://git.io/streak-stats)
 </center>
+ </div>
 <hr>
 
