@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
+<h2>🔥My github stats🔥</h2>
+<center>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=RimRaider639)](https://git.io/streak-stats)
+</center>
+<hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RimRaider639)](https://git.io/streak-stats)
