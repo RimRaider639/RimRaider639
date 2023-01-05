@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 <hr>
 <h2>📞 Get in touch</h2>
 <div style="display:flex;gap:20px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Java" width="30" height="30"/>&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="gmail" width="30" height="30"/>&nbsp;
+    <a href="https://www.linkedin.com/in/madhurima-poddar/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" title="https://www.linkedin.com/in/madhurima-poddar/" width="30" height="30"/>
+    </a>&nbsp;
+    <a href="mailto:madhurimapoddar639@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="gmail" title="madhurimapoddar639@gmail.com" width="30" height="30"/>
+    </a>&nbsp;
 </div>
 
 <hr>
