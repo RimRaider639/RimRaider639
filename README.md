@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <hr>
 <h2>🔥My github stats🔥</h2>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=RimRaider639&theme=javascript-dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=RimRaider639&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <hr>
 
