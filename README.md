@@ -1,3 +1,21 @@
+<div align="center">
+ <img src="https://media1.giphy.com/media/11oJ0n6FX3w1ZeoVHP/giphy.gif?cid=ecf05e47y5x1z9fj76vvgowblad45onugkv5mn8i2xd5q4x6&rid=giphy.gif&ct=s" alt="cuteGirl" width="100px"/>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/madhurima-poddar/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="mailto:madhurimapoddar639@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
+<!--       <a href="your-youtube-URL">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="your-twitter-URL">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a> -->
+    </div>
+</div>
+
 ### Hi there 👋, I'm Madhurima
 
 <!--
@@ -17,7 +35,7 @@ Here are some ideas to get you started:
 <hr>
 <h1>😎 About me</h1>
 
-<h2>📞 Get in touch</h2>
+<!-- <h2>📞 Get in touch</h2>
 <div style={{display:"flex",gap:"20px"}}>
     <a href="https://www.linkedin.com/in/madhurima-poddar/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" title="https://www.linkedin.com/in/madhurima-poddar/" width="30" height="30"/>
@@ -25,7 +43,7 @@ Here are some ideas to get you started:
     <a href="mailto:madhurimapoddar639@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="gmail" title="madhurimapoddar639@gmail.com" width="30" height="30"/>
     </a>&nbsp;
-</div>
+</div> -->
 
 <h2>🗣️ Languages</h2>
 
