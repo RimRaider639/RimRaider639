@@ -23,8 +23,14 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LbBSU26sSRAE8/giphy.gif" width="60%" />
+  </br>
+  </br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
 </div>
 
+<!-- <div align="center"> -->
+<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" /> -->
+<!-- </div>  -->
 <!--
 **RimRaider639/RimRaider639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
