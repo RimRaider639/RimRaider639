@@ -71,10 +71,11 @@ Here are some ideas to get you started:
 <h2>🔥My Github Stats🔥</h2>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=RimRaider639&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RimRaider639&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimRaider639&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RimRaider639&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+ 
 </div>
 <hr>
 
