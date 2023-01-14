@@ -45,12 +45,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br>
+
+<div>
+ <h2 align="center"> 💁‍♀️ About Me </h2>
+ <p>
+  I am a Skilled MERN stack web developer, who is passionate about programming application logic and has an intuition for both system and UI design. I embrace challenges and divergent ideas. I pride myself in writing elegant, well organized code and constantly optimize them.  
+I have 2000+ hours of coding experience, and have built various small scale projects.
+ </p>
+ 
+ <p>
+  I have a love for creation, and watching my ideas manifest into being is a bliss. I have always been very curious about human brain, hence Neural Networks really tickle my fancy, and I aspire to master it. Hopefully, someday I'll be able to bring my passion in programming to the field of brain science.
+ </p>
+ 
+</div>
+
+<br/>
 
 <div align="center">
-<h2>🗣️ Languages 🗣️</h2>
+<h2>🗣️ Languages </h2>
 
-</br>
+<br/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -61,11 +75,11 @@ Here are some ideas to get you started:
    <img src="https://cdn-icons-png.flaticon.com/512/4248/4248340.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/541/541490.png" title="JSX" alt="JSX" width="40" height="40"/>&nbsp;
 </div>
-</br>
+<br/>
 
 <div align="center">
 <h2>🛠️ Tools & Frameworks</h2>
-</br>
+<br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/512/chakra-ui.png" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
@@ -78,16 +92,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-</br>
+<br/>
 <div align="center">
 <h2>🔥My Github Stats🔥</h2>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=RimRaider639&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RimRaider639&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-<br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimRaider639&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+ ![GitHub stats](https://github-readme-stats-kj4q.vercel.app/api?username=RimRaider639&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+<br/>
+ [![Top Langs](https://github-readme-stats-kj4q.vercel.app/api/top-langs/?username=RimRaider639&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
  
 </div>
-<hr>
+<hr/>
 
