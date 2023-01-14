@@ -54,7 +54,7 @@ I have 2000+ hours of coding experience, and have built various small scale proj
  </p>
  
  <p>
-  I have a love for creation, and watching my ideas manifest into being is a bliss. I have always been very curious about human brain, hence Neural Networks really tickle my fancy, and I aspire to master it. Hopefully, someday I'll be able to bring my passion in programming to the field of brain science.
+  I have a love for creation, and watching my ideas manifest into being is a bliss. I have always been very curious about human brain, hence Neural Networks really tickle my fancy, and I aspire to master it. Hopefully, someday I'll be able to bring my expertise in programming to the field of brain science.
  </p>
  
 </div>
