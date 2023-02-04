@@ -98,7 +98,23 @@ I have 1500+ hours of coding experience, and have built various small scale proj
 <div align="center">
 <h2>🛠️ Tools</h2>
 <br/>
-
+ <img alt="VSCode" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/vscode/vscode-original.svg" class="chakra-image css-7lnesm" title="VSCode" width="40" height="40">&nbsp;
+ <img alt="NodeJS" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nodejs/nodejs-original.svg" class="chakra-image css-7lnesm" title="NodeJS" width="40" height="40">&nbsp;
+ <img alt="Anaconda" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/anaconda/anaconda-original.svg" class="chakra-image css-7lnesm" title="Anaconda" width="40" height="40">&nbsp;
+ <img alt="Jupyter" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/jupyter/jupyter-original.svg" class="chakra-image css-7lnesm" title="Jupyter" width="40" height="40">&nbsp;
+ <img alt="Github" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/github/github-original.svg" class="chakra-image css-7lnesm" title="Github" width="40" height="40">&nbsp;
+ <img alt="MongoDB" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/mongodb/mongodb-original.svg" class="chakra-image css-7lnesm" title="MongoDB" width="40" height="40">&nbsp;
+ <img alt="Jest" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/jest/jest-plain.svg" class="chakra-image css-7lnesm" title="Jest" width="40" height="40">&nbsp;
+ <img alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" class="chakra-image css-7lnesm" title="Cypress" width="40" height="40">&nbsp;
+ <img alt="Storybook" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/storybook/storybook-original.svg" class="chakra-image css-7lnesm" title="Storybook" width="40" height="40">&nbsp;
+ <img alt="ESLint" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/eslint/eslint-original.svg" class="chakra-image css-7lnesm" title="ESLint" width="40" height="40">&nbsp;
+ <img alt="Figma" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/figma/figma-original.svg" class="chakra-image css-7lnesm" title="Figma" width="40" height="40">&nbsp;
+ <img alt="Canva" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/canva/canva-original.svg" class="chakra-image css-7lnesm" title="Canva" width="40" height="40">&nbsp;
+ <img alt="Kaggle" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/kaggle/kaggle-original.svg" class="chakra-image css-7lnesm" title="Kaggle" width="40" height="40">&nbsp;
+ <img alt="Codepen" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/codepen/codepen-plain.svg" class="chakra-image css-7lnesm" title="Codepen" width="40" height="40">&nbsp;
+ <img alt="Atom" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/atom/atom-original.svg" class="chakra-image css-7lnesm" title="Atom" width="40" height="40">&nbsp;
+ <img alt="PostgreSQL" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/postgresql/postgresql-original.svg" class="chakra-image css-7lnesm" title="PostgreSQL" width="40" height="40">&nbsp;
+</div>
 <br/>
 <div align="center">
 <h2>🔥My Github Stats🔥</h2>
