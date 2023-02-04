@@ -78,20 +78,27 @@ I have 1500+ hours of coding experience, and have built various small scale proj
 <br/>
 
 <div align="center">
-<h2>🛠️ Tools & Frameworks</h2>
+<h2>🧮 Frameworks & Libraries</h2>
 <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/512/chakra-ui.png" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
- 
+ <img alt="ReactJS" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/react/react-original.svg" title="ReactJS" width="40" height="40">&nbsp;
+ <img alt="ChakraUI" src="https://img.icons8.com/color/512/chakra-ui.png" title="ChakraUI" width="40" height="40">&nbsp;
+ <img alt="NextJS" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40">&nbsp;
+ <img alt="Redux" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40">&nbsp;
+ <img alt="NPM" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/npm/npm-original-wordmark.svg" title="NPM" width="40" height="40">&nbsp;
+ <img alt="Numpy" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/numpy/numpy-original.svg" title="Numpy" width="40" height="40">&nbsp;
+ <img alt="Pandas" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40">&nbsp;
+ <img alt="OpenCV" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"> &nbsp;
+ <img alt="Tensorflow" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="40" height="40"> &nbsp;
+ <img alt="MaterialUI" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/materialui/materialui-original.svg" title="MaterialUI" width="40" height="40">&nbsp;
+ <img alt="Bootstrap" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40">&nbsp;
+ <img alt="Sass" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/sass/sass-original.svg" title="Sass" width="40" height="40">&nbsp;
 </div>
+<br/>
+
+<div align="center">
+<h2>🛠️ Tools</h2>
+<br/>
+
 <br/>
 <div align="center">
 <h2>🔥My Github Stats🔥</h2>
