@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <div>
  <h2 align="center"> 💁‍♀️ About Me </h2>
  <p>
-  I am a skilled MERN stack web developer, who is passionate about programming application logic and has an intuition for both system and UI design. I embrace challenges and divergent ideas. I pride myself in writing elegant, well organized code and constantly optimize them.  
+  I am a skilled MERN stack web developer, passionate about programming application logic and with an intuition for both system and UI design. I embrace challenges and divergent ideas. I pride myself in writing elegant, well organized code and constantly optimize them.  
 I have 1500+ hours of coding experience, and have built various small scale projects.
  </p>
  
