@@ -84,6 +84,9 @@ I have 1500+ hours of coding experience, and have built various small scale proj
  <img alt="ChakraUI" src="https://img.icons8.com/color/512/chakra-ui.png" title="ChakraUI" width="40" height="40">&nbsp;
  <img alt="NextJS" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40">&nbsp;
  <img alt="Redux" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40">&nbsp;
+ <img alt="ExpressJS" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/express/express-original.svg" title="ExpressJS" width="40" height="40">&nbsp;
+ <img alt="Mongoose" src="https://img.icons8.com/color/256/mongoose.png" title="Mongoose" width="40" height="40">&nbsp;
+ <img alt="SocketIO" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/socketio/socketio-original.svg" title="Redux" width="40" height="40">&nbsp;
  <img alt="NPM" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/npm/npm-original-wordmark.svg" title="NPM" width="40" height="40">&nbsp;
  <img alt="Numpy" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/numpy/numpy-original.svg" title="Numpy" width="40" height="40">&nbsp;
  <img alt="Pandas" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40">&nbsp;
